@@ -1,0 +1,8 @@
+/yolov5/
+/openpose/
+/.idea/
+/.vscode
+/yolov5s.pt
+/yolo-test/pose_deploy_linevec_faster_4_stages.prototxt
+/yolo-test/pose_iter_160000.caffemodel
+/yolo-test/yolov5s.pt
